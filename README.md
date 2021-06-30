@@ -1,4 +1,4 @@
 # Thread
 
 
-Many practice about thread 
+Many practices about thread 
